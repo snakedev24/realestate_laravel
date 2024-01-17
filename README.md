@@ -1,5 +1,4 @@
 # Real Estate Site 
-### Made By [***DannyGlade***](https://github.com/DannyGlade)
 This is a Real E-state Site Project Made with Laravel, Bootstarp, JQuery, DataTables, FancyApp.
 I only made it for my College Project, but if you are here that means I might have posted it online somewhere and you are here to steal it or see as refrence, but it's okay.
 
@@ -36,7 +35,7 @@ I only made it for my College Project, but if you are here that means I might ha
 1. Open Cmd in folder you want to install project in...
 2. Type below Command and hit enter...
 ```bash
-git clone https://github.com/DannyGlade/Real_Estate_Site.git
+git clone https://github.com/snakedev24/realestate_laravel.git
 ```
 4. Then cd into folder using below Command
 ```bash
